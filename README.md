@@ -41,7 +41,8 @@ A simple and robust RESTful API for managing employee records, built using **Jav
 ```json
 {
   "empId: "1",
-  "name": "Kagiso Aphane",
+  "firstName": "Kagiso",
+  "lastName": "Aphane",
   "email": "Ghost@capser.com",
   "position": "Java Developer"
 }
